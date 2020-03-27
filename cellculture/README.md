@@ -5,4 +5,4 @@ This repository contains protocols relating to all cell culture work we do in th
 - Commonly Used Cell Lines
 - Neutralization Assay Protocols
 - Making Virus
-- VEP DMS
+- [VEP DMS](VEP_DMS/README.md)
