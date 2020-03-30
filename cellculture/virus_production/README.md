@@ -1,0 +1,14 @@
+# Assorted Protocols for Producing and Titering Viruses 
+
+This directory contains all relevant protocols for producing and titering flu, lentivirus, and HIV (pseudovirus and full-length).
+
+- Influenza
+  - production
+  - titering via TCID50
+- Lentiviruses
+  - [production](making_lentivirus.md)
+  - [titering via flow](titering_lentivirus.md)
+- HIV
+  - production of FL
+  - production of PSV
+  - titering via TZM-bl counting
