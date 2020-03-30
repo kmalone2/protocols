@@ -1,6 +1,10 @@
 # Protocol for Production of Lentiviruses
 
-This protocol is for production of lentiviruses. Used most often by the [VEP DMS](../VEP_DMS/README.md) project.
+This protocol is for production of lentiviruses. Used most often by the [VEP DMS](../VEP_DMS/README.md) project. 
+
+SPECIAL CONSIDERATIONS:
+
+Importantly, you will be working with a BL2 agent. This means you should have at least a 1:20 working dilution of Wescodyne (located under the sink), and should sterilize *all* disposables with this Wescodyne solution while working. When you are finished with a plate, let it soak in Wescodyne for at least 10 minutes, then aspirate and tape closed. All waste is disposed of in the virus waste bin under the hood.
 
 ## Reagents needed:
 - 6 well TC treated plate
@@ -44,4 +48,28 @@ BioT | 3 uL
 ### Day 3
 7. 18-24 hours post transfection, change the media to fresh D10 (as BioT is cytotoxic)
 
-### Day 4 
+### Day 4 or 5
+8. 48-72 hours post transfection, harvest lentivirus-containing supernatant. 
+9. Collect the supernatant in a 5 mL syringe.
+10. Attach a 0.45-µm syringe filter to the syringe. 
+11. Into a cryo-tube, filter the lentivirus by pushing down on the plunger of the syringe. 
+12. Aliquot as needed and store at 4˚C
+
+### General Lentiviral Infection Protocol
+Reagents needed:
+- harvested lentiviral supernatant (can be freshly harvested)
+- polybrene
+  - the stock is at -20˚C and concentration of 10 mg/uL
+  - working stock:
+    - add 5 uL polybrene into 955 uL D10
+
+Protocol, Day 1: 
+
+1. The day before infection, seed cells for infection. Infection works better if the cells are sparse, so for hard-to-infect cells, such as MDCKs, you can seed as low as 1e4 cells per well in a 12-well dish.
+
+Protocol, Day 2:
+
+2. The day of infection, aspirate the media from cells to be infected. Ideally, cells are **<10% confluent**.
+3. Add 900 uL harvested lentiviral supernatant from transfection.
+4. Add 100 uL polybrene working stock (final concentration of 5 ug/uL)
+5. 12-24 hours post infection, aspirate infection media and add 1 mL fresh D10
