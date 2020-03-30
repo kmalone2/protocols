@@ -4,5 +4,5 @@ This repository contains protocols relating to all cell culture work we do in th
 - [Media Recipes](mediarecipes.md)
 - Commonly Used Cell Lines
 - Neutralization Assay Protocols
-- Making Virus
+- [Making Virus](makingvirus/README.md)
 - [VEP DMS](VEP_DMS/README.md)
