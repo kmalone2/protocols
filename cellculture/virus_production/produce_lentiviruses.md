@@ -21,6 +21,14 @@ The pHAGE2 helper plasmid mix is a 1:1:1:1 mixture of the following Bloom Lab pl
 
 The mix is usually made such that it contains 250 ng of each helper per 5 ul of helper mix for 1 ug total of helper plasmid.
 
+OR, WITHOUT VSV-G:
+
+1. [26 - HDM_Hgpm2](https://github.com/jbloomlab/plasmids/blob/master/genbank_maps/26_HDM_Hgpm2.gb)
+2. [27 - HDM_Tat1b](https://github.com/jbloomlab/plasmids/blob/master/genbank_maps/27_HDM_tat1b.gb)
+3. [28 - pRC-CMV_Rev1b](https://github.com/jbloomlab/plasmids/blob/master/genbank_maps/28_pRC_CMV_Rev1b.gb)
+
+In this case, the mix is made such that it contains 333 ng of each helper per 5 ul of helper mix for 1 ug total of helper plasmid. 
+
 ## Protocol
 ### Day 1
 1. Seed cells in a 6-well plate. Seed HEK293T cells at a density of 4e5 cells per well.
@@ -53,19 +61,32 @@ BioT | 3 uL
 9. Collect the supernatant in a 5 mL syringe.
 10. Attach a 0.45-µm syringe filter to the syringe. 
 11. Into a cryo-tube, filter the lentivirus by pushing down on the plunger of the syringe. 
-12. Aliquot as needed and store at 4˚C
+12. Aliquot as needed and store at -80˚C
 
 ### General Lentiviral Infection Protocol
 Reagents needed:
 - harvested lentiviral supernatant (can be freshly harvested)
 - polybrene
-  - the stock is at -20˚C and concentration of 10 mg/uL
+  - the stock is at -20˚C and concentration of 10 ug/uL
   - working stock:
-    - add 5 uL polybrene into 955 uL D10
+    - add y uL of polybrene such that y = x / 2
+    - x = total mL D10. Usually, you need only 580 uL per well (of a 24 well plate). use judgement to adjust as needed.
 
 Protocol, Day 1: 
 
 1. The day before infection, seed cells for infection. Infection works better if the cells are sparse, so for hard-to-infect cells, such as MDCKs, you can seed as low as 1e4 cells per well in a 12-well dish.
+
+Cell Line | Plate to Use | Seeding Density (cells/well)
+--- | --- | ---
+293T | 6-well | 9e4
+293T | 12-well | 3e4
+293T | 24-well | 4, 5, or 6e4
+A549 | 24-well | 1.5e4
+BHK | 24-well | 0.75e4
+Huh7 | 24-well | 1e4
+Vero | 24-well | 1.5e4
+MDCK | 24-well | 1e4
+
 
 Protocol, Day 2:
 
