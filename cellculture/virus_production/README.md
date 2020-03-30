@@ -6,8 +6,8 @@ This directory contains all relevant protocols for producing and titering flu, l
   - production
   - titering via TCID50
 - Lentiviruses
-  - [production](making_lentivirus.md)
-  - [titering via flow](titering_lentivirus.md)
+  - [production](produce_lentivirus.md)
+  - [titering via flow](titer_lentivirus.md)
 - HIV
   - production of FL
   - production of PSV
