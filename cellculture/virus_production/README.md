@@ -9,6 +9,5 @@ This directory contains all relevant protocols for producing and titering flu, l
   - [production](produce_lentivirus.md)
   - [titering via flow](titer_lentivirus.md)
 - HIV
-  - production of FL
-  - production of PSV
+  - [production of FL and PSV](produce_HIV.md)
   - titering via TZM-bl counting
