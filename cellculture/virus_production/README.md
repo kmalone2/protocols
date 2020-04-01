@@ -3,7 +3,7 @@
 This directory contains all relevant protocols for producing and titering flu, lentivirus, and HIV (pseudovirus and full-length).
 
 - Influenza
-  - production
+  - [production of WSN](produce_flu_WSN.md) 
   - titering via TCID50
 - Lentiviruses
   - [production](produce_lentivirus.md)
