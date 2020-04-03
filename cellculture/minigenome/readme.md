@@ -6,6 +6,8 @@ Note:
 Schedule flow machine in advance to ensure you have a slot. I typically book 1-2 hrs for the plate flow just to be safe. 
 •	The machines that will work for GFP and mCherry in a 96-well plate format are the LSR, Fortessa, or the Symphonies
 
+Download included spreadsheet for calculations!
+
 
 ## Reagents Needed
 
@@ -31,7 +33,7 @@ Schedule flow machine in advance to ensure you have a slot. I typically book 1-2
 
 Overview: Will prepare transfection master mixes and complexes in a separate 96-well plate and then use a multi-channel pipette to add complexes directly onto the cells you plated yesterday. I have designed a spreadsheet that can be used to calculate the amounts of each polymerase plasmid that you need for the amount of samples and number of replicates for the master mixes.  
 
-[BioT Minigenome Calculations Excel Spreadsheet](./BioT Minigenomes Calculations.xlsx): So basically, I’ve formatted it so you just put in the ng/uL of each plasmid and it calculates how many uL to add to the master mix. You can then mix this in a 1.5 eppy. Then I would take it into the TC room hood, add the serum-free DMEM, and add the calculated amount of master mix to the top rows of an empty 96-well dish in the same configuration that you want the samples to be in your actual plate. Just mimicking the wells of the plate with cells in it. 
+BioT Minigenome Calculations Excel Spreadsheet: So basically, I’ve formatted it so you just put in the ng/uL of each plasmid and it calculates how many uL to add to the master mix. You can then mix this in a 1.5 eppy. Then I would take it into the TC room hood, add the serum-free DMEM, and add the calculated amount of master mix to the top rows of an empty 96-well dish in the same configuration that you want the samples to be in your actual plate. Just mimicking the wells of the plate with cells in it. 
 Note: on my spreadsheet I have included the replicates in the MM calculations. I usually perform the assay in triplicates to make sure my technique is good, but you can change it to just 2 replicates if you want.
 
 3.	Make Master Mix (MM) containing volumes of each of the following (calculated using the BioT Minigenome Calculations excel spreadsheet):
