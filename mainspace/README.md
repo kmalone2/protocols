@@ -4,8 +4,8 @@ This folder contains files of all protocols done in the main lab space (BL1). Th
 
 - Bacterial Transformation (*E. coli*, various strains)
 - [Yeast Transformation](./yeast)
-  - [Basic transformation](./yeast/yeast_transformation.md)
-  - [Library-scale transformation](./yeast/library_transformation.md)
+  - [Basic transformation](./yeast/standard_transformation.md)
+  - [Library-scale transformation](./yeast/library_scale_transformation.md)
 - [ELISA](ELISA_optimization.md)
 - AmPure Bead Cleanup
 - PicoGreen DNA Quantification
