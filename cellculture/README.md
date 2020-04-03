@@ -6,4 +6,4 @@ This repository contains protocols relating to all cell culture work we do in th
 - Neutralization Assay Protocols
 - [Making Virus](virus_production/README.md)
 - [VEP DMS](VEP_DMS/README.md)
-- Minigenome Assays
+- [Minigenome Assays](./minigenomes)
