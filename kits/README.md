@@ -4,4 +4,4 @@ This folder contains edits to commonly used kits in the lab. They are currently 
 
 - [Qiagen](qiagen.md)
 - [Zymo](zymo.md)
-- Machery-Nagel
+- [Machery-Nagel](macherynagel.md)
