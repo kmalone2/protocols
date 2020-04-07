@@ -54,56 +54,50 @@ Another note: At least when I used to do electroporation of library plasmids int
 
 ### Cell Prep
 
-### Day 1
+Scaled for up to three library transformations!
 
-1. restreak yeast strain (e.g. EBY100 or AWY101 for yeast display) from glycerol stock onto YPD agar plate (or use a previous restreak kept at 4oC, up to two months or so in fridge should be fine. For a library)
+### Day -2
+1. Restreak yeast strain (e.g. EBY100 or AWY101 for yeast display) from glycerol stock onto YPD agar plate (or use a previous restreak kept at 4oC, up to two months or so in fridge are generally fine. For a library I might try for a reasonably fresh restreak, e.g. couple of weeks)
+
+### Day 1
+2. Start 25-mL 2xYPAD overnight with a single colony of untransformed yeast in 250mL baffled flask (start early/mid afternoon)
+3. Put 100mL 2xYPAD at 30oC to prewarm overnight
 
 ### Day 2:
-2. Start 25-mL 2xYPAD overnight with a single colony of untransformed yeast in 500mL baffled flask (start early/mid afternoon)
-3. Put 1 500-L flask with 50mL 2xYPAD at 30˚C to prewarm overnight
-
-### Day 3:
 4. Read O/N OD with 1:50 dilution:
-5. Spin 33.33 OD*mL units 3min 3krpm, aspirate or pour sup (or just add volume directly to fresh flask without spinning)
-6. Resuspend to 50mL in prewarmed 2xYPAD (0.67 OD) in 500mL flask
-7. Incubate 30˚C ~3.5-4 hours, to OD 2.67-3.3
+5. Spin 66.7 OD*mL units 3min 3krpm, aspirate or pour sup
+6. Resuspend to 100mL in prewarmed 2xYPAD (0.67 OD) in 1L baffled flask
+7. Incubate 30oC ~3.5-4 hours, to OD 2.67-3.3
 8. While growing
-  - denature 500uL ssDNA 5min 95C on heat block or on thermocycler, chill on ice
-  - Set water bath 42oC (setting to about 44.4oC on the temperature dial yielded 42oC bath)
-  - Prepare transformation reagents (if doing positive and negative control, also prep at 6x reduced volumes):
-  - Make 50ug library plasmid in 340uL water: 132.6uL plasmid, 207.4uL sterile water (1.4ug in 56.7uL)
-  - Make Transformation mix
-    - 2.4mL 50% PEG3350
-    - 360uL 1M LiAc
-  - Make Recovery mix
-    - 13mL SD-CAA
-    - 13mL 20% Dextrose
-  - Prepare outgrowth flask
-    - 1L flask with 100mL SD-CAA
-9. After cells grown to scale, spin 83 OD*mL of cells (13.83 OD*mL for controls)
-10. Wash with 25mL sterile water two times (4.2mL for controls)
+   - denature 500uL ssDNA per transformation, 5min 95C on heat block or on thermocycler, chill on ice
+   - Set water bath 42oC (setting to about 44.4oC on the temperature dial yielded 42oC bath)
+   - Prepare transformation reagents, one set of the following for each library (if doing positive and negative control, also prep at 6x reduced volumes):
+      - 50ug library plasmid in 340uL total volume using sterile water (1.6ug in 56.7uL for controls)
+      - Transformation mix:
+         - 2.4mL 50% PEG3350
+         - 360uL 1M LiAc
+      - Recovery mix:
+         - 13mL SD-CAA
+         - 13mL 20% Dextrose
+      - Outgrowth flask
+         - 1L flask with 100mL SD-CAA
+9. After cells grown to scale, spin 83 OD*mL of cells per library (13.83 OD*mL for controls) in 50mL conicals, 4k rpm 5 min, pour out sup
+10. Wash with 25mL sterile water two times (4.2mL for controls), spinning 4k rpm 5min, aspirating sup
 
 ### Transformation
-
-11. Resuspend in 500uL salmon sperm DNA (83.3uL for controls)
+11. Resuspend cell pellet in 500uL salmon sperm DNA (83.3uL for controls)
 12. Add 340uL sterile water including 50ug DNA (56.7uL controls)
 13. Add yeast/DNA mixture to pre-prepared Transformation mix in 15mL conical, swirl gently to mix
 14. Incubate 35min in 42oC water bath, swirling tube gently to mix every 6-7 minutes
 15. Dilute transformation mix into room temp recovery mix
-16. Spin down cells 3k rpm 5min
-17. Resuspend into 100mL SD-CAA + 1:100 pen-strep in 1L baffled flask, incubate 30˚C (should be starting OD of ~0.83, minus cell loss)
-  - for 2440 and neg ctrl, resuspended pellet to 2mL and plate 100uL directly
+16. Spin down cells 3k rpm 5min, aspirate sup
+17. Resuspend into 100mL SD-CAA in 1L baffled flask, incubate 30oC shaker 225rpm (should be starting OD of ~0.83, minus cell loss) overnight for post-transformation outgrowth
+   - For positive and neg ctrl, resuspended pellet to 2mL and plate 100uL directly
 
-### Yield and Outgrowth
+### Yield and outgrowth
+18. Plate 100uL of 10-1, 10-2 dilutions on SD-CAA plates to estimate yield, incubate 30oC 2 days, count colonies to estimate transformation yield. If you just want to make sure there are >1e6 transformants and don’t care much about yield beyond that, 10-1 dilution should be sufficient (100 colonies on 100uL plated of 10-1 dilution corresponds to 1e6 transformants)
 
-18. Plate 100uL of 10-1, 10-2 dilutions on SD-CAA plates to estimate yield, incubate 2 days, count colonies to estimate transformation yield
-
-### Day 4
-19. In AM, check outgrowths have grown (e.g. at 10am, OD was 4.4 for a successful transformation)
+### Day 3:
+19. In AM, check outgrowths have grown (e.g. at 10am, OD was 4.4 for an example successful transformation)
 20. Spin 100 OD*mL 5min 3k rpm, resuspended to 100mL in fresh SD-CAA, incubate ~8+ hours
-21. Spin 18.5 OD*mL aliquots (~1e8 cfu according to my calibration curve plating to count cfu versus our nanodrop spec OD), resuspend in 1.5mL 25% glycerol in media, and flash freeze in dry ice/EtOH bath or liquid nitrogen. Store aliquots -80˚C
-
-
-
-
-
+21. Spin 18.5 OD*mL aliquots (~1e8 cfu according to my calibration curve plating to count cfu versus our nanodrop spec OD), resuspend in 1.5mL 25% glycerol in media, and flash freeze in dry ice/EtOH bath or liquid nitrogen. Store aliquots -80oC
