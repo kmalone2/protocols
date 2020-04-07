@@ -33,7 +33,7 @@ and put into the biohazard bin
 9. 20 mL to resuspend MDCK-SIAT1-TMPRSS2 cells
 10. Aliquot IGM and put in the incubator
 11. Add 90 ul of media to each well in the plate and verify by the eye
-12. ** Initial Virus dilution **
+12. **Initial Virus dilution**
 13. On a separate 96 well plate make a virus row
 14. Add 180 ul IGM to each well and 20 ul virus to each well
 15. Mix well
@@ -41,7 +41,7 @@ and put into the biohazard bin
 17. Add virus to plate
 18. Add 10 ul of 1:10 dilution to row A of each plate
 19. Mix 10 times
-20. Viral dilutions
+20. **Viral dilutions**
 21. Transfer 10 ul of virus to next row
 22. Make sure there is virus in the pipet tip
 23. Pipet up and down 10x while moving pipetman around
@@ -52,7 +52,7 @@ and put into the biohazard bin
 28. Pellet cells
 29. Resuspend in 20mL IGM
 30. Create cell master mix at 1e5 cells/mL, need 5 mL per plate
-31. Add cells
+31. **Add cells**
 32. Mix diluted cells by inversion
 33. Add 5.5 mL cells to a new reservoir
 34. Add 50 ul to the middle of each well
@@ -61,10 +61,12 @@ and put into the biohazard bin
 37. Change tips for each row
 38. Change reservoir after every 2 plates
 39. Put cells in incubator
-40. Clean up
+40. **Clean up**
 
 ### Day 3/4
 
 Checking/scoring
+
 41. Check cells after 48 hours (to see if you are even going to get a titer)
+
 42. Score after 72 hours
