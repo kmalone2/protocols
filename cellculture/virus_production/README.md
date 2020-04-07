@@ -4,7 +4,7 @@ This directory contains all relevant protocols for producing and titering flu, l
 
 - Influenza
   - [production of WSN](produce_flu_WSN.md) 
-  - titering via TCID50
+  - [titering via TCID50](TCID50.md)
 - Lentiviruses
   - [production](produce_lentivirus.md)
   - [titering via flow](titer_lentivirus.md)
