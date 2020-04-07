@@ -73,7 +73,38 @@ Protocol:
 
 ### IGM (Influenza Growth Medium)
 
+Reagents Needed:
+- 20 mL 7.5% BSA
+- 5 mL Pen-Strep
+- 500 uL Filtered Calcium Chloride
+- 50 uL Heat-Inactivated FBS
+- 475 mL Opti-MEM I
+- 500 mL filter top bottle
+
+Protocol:
+
+1. Add all reagents to the top of a 500 mL filter top bottle. 
+2. Secure the filter to the bottle and then secure the vaccuum line. 
+3. Apply vaccuum.
+4. Cap and store at 4˚C
+
 ### NAM (Neutralization Assay Medium)
+
+Reagents Needed:
+- 20 mL 7.5% BSA
+- 5 mL Pen-Strep
+- 500 uL Filtered Calcium Chloride
+- 50 uL Heat-Inactivated FBS
+- 12.5 mL 1M HEPES
+- 462.5 mL Medium 199
+- 500 mL filter top bottle
+
+Protocol:
+
+1. Add all reagents to the top of a 500 mL filter top bottle. 
+2. Secure the filter to the bottle and then secure the vaccuum line. 
+3. Apply vaccuum.
+4. Cap and store at 4˚C
 
 ### R10
 Reagents Needed:
