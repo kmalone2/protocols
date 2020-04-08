@@ -10,7 +10,7 @@ This folder contains files of all protocols done in the main lab space (BL1). Th
   - [Basic transformation](./yeast/standard_transformation.md)
   - [Library-scale transformation](./yeast/library_scale_transformation.md)
 - [ELISA](ELISA_optimization.md)
-- AmPure Bead Cleanup
+- [AmPure Bead Cleanup](ampure.md)
 - PicoGreen DNA Quantification
 - Qubit Nucleic Acid/Protein Quantification
 - In-Fusion Cloning
