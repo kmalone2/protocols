@@ -11,7 +11,7 @@ Submitted by Kate Crawford.
 - Klenow
 - dNTPs (preferably 10 mM TOTAL, 2.5 mM each; or 250 uM dNTP stock)
 - PCR tubes
-- [Zymo Clean and Concentrate DNA kit](./kits/zymo.md)
+- [Zymo Clean and Concentrate DNA kit](../kits/zymo.md)
 
 ## Protocol
 
