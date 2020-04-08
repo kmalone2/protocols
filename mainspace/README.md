@@ -5,7 +5,7 @@ This folder contains files of all protocols done in the main lab space (BL1). Th
 - Bacterial Transformation (*E. coli*, various strains)
   - [electroporation](bacteria/electroporation.md)
   - [chemical transformation](bacteria/chemical_transformation.md)
-- Minigenome Screening
+- Klenow Protocol
 - [Yeast Transformation](./yeast)
   - [Basic transformation](./yeast/standard_transformation.md)
   - [Library-scale transformation](./yeast/library_scale_transformation.md)
