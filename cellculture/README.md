@@ -7,3 +7,4 @@ This repository contains protocols relating to all cell culture work we do in th
 - [Making Virus](virus_production/README.md)
 - [VEP DMS](VEP_DMS/README.md)
 - [Minigenome Assays](./minigenomes)
+- PhIP-Seq Protocols
